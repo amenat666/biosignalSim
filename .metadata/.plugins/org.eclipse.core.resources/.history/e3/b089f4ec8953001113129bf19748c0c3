@@ -48,9 +48,6 @@ uint32_t N=1000;
 
 /* USER CODE BEGIN PV */
 
-/*Output waveform buffer*/
-uint32_t ecg[N];
-
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/

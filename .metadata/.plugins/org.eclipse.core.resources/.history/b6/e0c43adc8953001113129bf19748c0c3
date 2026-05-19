@@ -32,11 +32,6 @@
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
 
-/* Sample rate */
-uint32_t Fs=1000;
-/* Number of samples per cycle */
-uint32_t N=1000;
-
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
@@ -47,9 +42,6 @@ uint32_t N=1000;
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
-
-/*Output waveform buffer*/
-uint32_t ecg[N];
 
 /* USER CODE END PV */
 
